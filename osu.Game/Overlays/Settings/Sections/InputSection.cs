@@ -18,6 +18,7 @@ namespace osu.Game.Overlays.Settings.Sections
             {
                 new MouseSettings(),
                 new KeyboardSettings(keyConfig),
+                new WiimoteSettings(),
             };
         }
     }
